@@ -19,7 +19,7 @@ I'm an 18-year-old self-taught developer, passionate about programming and alway
 
 <h2> My social networks </h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/cristopher-fuentes-87868534b/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 
