@@ -30,19 +30,19 @@ I'm an 18-year-old self-taught developer, passionate about programming and alway
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
+      alt="html5" width="40" height="40" /> </a> <a 
     target="_blank" rel="noreferrer">  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+      alt="javascript" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer">
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+      alt="react" width="40" height="40" /> </a> <a  target="_blank" rel="noreferrer"> 
 <br>
 
 <h2> Contact: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![Email](https://img.shields.io/badge/cristopherfm21.5@gmail.com-personal_email(quick_response)_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/cristopherfm21.5@gmail.com-personal_email(quick_response)_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristopherfm21.5@gmail.com)
