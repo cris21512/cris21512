@@ -1,7 +1,7 @@
 <h1 align="center">¡Hi!, my name is: <a href="https://github.com/Aryagm">Cristopher Fuentes<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h3 align="center">I'm Web Developer, Frontend and content creator🌟.</h3>
 
-![https://github.com/cris21512](./preview.png)
+![https://github.com/cris21512](./MasterDev.png)
 
 <img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA5eGxyc2VkaDJiYm94bzF5YW50bnVjNWlmOWloeXI5ejdhdHloaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7zDZzInGqDm5o5sxTO/giphy.gif" />
 
