@@ -1,5 +1,5 @@
 <h1 align="center">¡Hi!, my name is: <a href="https://github.com/Aryagm">Cristopher Fuentes<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<h3 align="center">I'm Web Developer, Frontend and content creator🌟.</h3>
+<h3 align="center">I'm Software Engineer, Web developer and creator content🌟.</h3>
 
 ![https://github.com/cris21512](./MasterDev.png)
 
